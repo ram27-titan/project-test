@@ -1,0 +1,189 @@
+.container__title {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  width: 375px;
+  height: 59px;
+  left: 0px;
+  top: 23px;
+  background: #ffffff;
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.title__iconkeluhan h3 {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 18.75px;
+  position: absolute;
+  top: 20px;
+  left: 52px;
+}
+
+.imgBack img {
+  width: 18px;
+  position: absolute;
+  top: 21.5px;
+  left: 17px;
+  right: 340px;
+  cursor: pointer;
+  transition: all 400ms ease;
+}
+
+.imgBack img:hover {
+  transform: scale(105%);
+}
+
+.foto__keluhan h3 {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 18.75px;
+  position: absolute;
+  top: 102px;
+  left: 15px;
+}
+
+.container__upload {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  width: 345px;
+  height: 156px;
+  left: 15px;
+  top: 131px;
+  border: 1px dashed #c4c4c4;
+  border-radius: 5px;
+}
+
+.icon__plus img {
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  top: 70px;
+  left: 112.5px;
+  right: 216.5px;
+}
+
+.previewImage img {
+  width: 345px;
+  height: 156px;
+  object-fit: contain;
+}
+
+.title__foto h3 {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18.75px;
+  color: #c4c4c4;
+  position: absolute;
+  top: 68.5px;
+  left: 138.5px;
+}
+
+.icon__plus label {
+  cursor: pointer;
+}
+
+.icon__plus input {
+  display: none;
+}
+
+.nama__judul h3 {
+  position: absolute;
+  width: 121px;
+  height: 19px;
+  left: 15px;
+  top: 302px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.judul__input input {
+  position: absolute;
+  width: 345px;
+  height: 46px;
+  left: 15px;
+  top: 331px;
+  padding: 15px;
+  border: 0.8px solid #c4c4c4;
+  border-radius: 5px;
+}
+
+.judul__input input::-webkit-input-placeholder {
+  color: #c4c4c4;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16.41px;
+}
+
+.judul__kategori h3 {
+  position: absolute;
+  width: 123px;
+  height: 19px;
+  left: 15px;
+  top: 392px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.pilih__kategori {
+  position: absolute;
+  width: 345px;
+  height: 46px;
+  left: 15px;
+  top: 421px;
+  padding-left: 15px;
+  border: 0.8px solid #c4c4c4;
+  border-radius: 5px;
+}
+
+.judul__diskripsi h3 {
+  position: absolute;
+  width: 178px;
+  height: 19px;
+  left: 15px;
+  top: 482px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.box__diskripsi textarea {
+  position: absolute;
+  width: 345px;
+  height: 118px;
+  left: 15px;
+  top: 511px;
+  padding: 15px;
+  border: 0.8px solid #c4c4c4;
+  border-radius: 5px;
+}
+
+.box__diskripsi textarea::-webkit-input-placeholder {
+  color: #c4c4c4;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16.41px;
+}
+
+.button {
+  position: absolute;
+  width: 345px;
+  height: 46px;
+  left: 15px;
+  top: 659px;
+  padding: 15px;
+  color: white;
+  background: #47ade7;
+  border-radius: 3px;
+  transition: all 400ms ease;
+  cursor: pointer;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.button:hover {
+  transform: scale(101%);
+}

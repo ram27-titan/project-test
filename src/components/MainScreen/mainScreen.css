@@ -1,0 +1,455 @@
+.container__atas {
+  background: #47ade7;
+  color: white;
+  height: 211px;
+}
+
+.title h2 {
+  font-size: 30px;
+  font-weight: 500;
+  position: absolute;
+  top: 40px;
+  left: 18px;
+}
+
+.notification span {
+  font-size: 27.61px;
+  position: absolute;
+  top: 45.5px;
+  right: 15.39px;
+}
+
+.title__pt h3 {
+  position: absolute;
+  width: 177px;
+  height: 23px;
+  left: 17px;
+  top: 108px;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 23px;
+}
+
+.title__pt h3 span {
+  position: absolute;
+  top: 2px;
+  right: 2px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18.75px;
+}
+
+.iconLocation img {
+  width: 10px;
+  height: 13px;
+  position: absolute;
+  left: 4.8%;
+  right: 92.53%;
+  top: 17.19%;
+  bottom: 81.4%;
+}
+
+.location__name h5 {
+  position: absolute;
+  width: 48px;
+  height: 16px;
+  left: 34px;
+  top: 132px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.location {
+  display: flex;
+  align-items: center;
+  margin-left: 17px;
+  margin-top: 2px;
+  padding-bottom: 65px;
+  gap: 5px;
+}
+
+.container__boxticket {
+  position: absolute;
+  width: 345px;
+  height: 99px;
+  left: 15px;
+  right: 15px;
+  top: 162px;
+  background: #ffffff;
+  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.08);
+  border-radius: 5px;
+}
+
+.container__ticketvisit {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+  margin-top: 23px;
+}
+
+.ticket {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.ticket h4 {
+  color: #f5ba46;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.img1 {
+  width: 28px;
+  height: 27px;
+}
+
+.img2 {
+  width: 13.59px;
+  height: 13.59px;
+}
+
+.visit {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.visit h4 {
+  color: #686c71;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.img3 {
+  width: 27px;
+  height: 21px;
+}
+
+.img4 {
+  width: 13.59px;
+  height: 13.59px;
+}
+
+.waktu__berakhir {
+  display: flex;
+  justify-content: center;
+  margin-top: 28px;
+  margin-bottom: 10px;
+}
+
+.waktu__berakhir h5 {
+  font-size: 12px;
+}
+
+.waktu__berakhir h5 span {
+  color: #c4c4c4;
+  font-weight: 300;
+}
+
+.imgLineVertical {
+  width: 45px;
+  border: 0.3px solid ghostwhite;
+  transform: rotate(90deg);
+  position: absolute;
+  top: 192px;
+  left: 168px;
+}
+
+.imgLineHorizontal {
+  width: 325px;
+  height: 0px;
+  border: 0.3px solid ghostwhite;
+  position: absolute;
+  top: 230px;
+  left: 25px;
+}
+
+.container__icon {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 25px;
+}
+
+.icon__lapor {
+  position: absolute;
+  width: 165px;
+  height: 165px;
+  left: 15px;
+  top: 276px;
+  background: #ffffff;
+  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.08);
+  border-radius: 5px;
+  cursor: pointer;
+}
+.icon__keluhan {
+  position: absolute;
+  width: 165px;
+  height: 165px;
+  left: 195px;
+  top: 276px;
+  background: #ffffff;
+  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.08);
+  border-radius: 5px;
+}
+
+.icon__lapor h4 {
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  top: 119px;
+  left: 31px;
+  color: #000000;
+}
+
+.icon__keluhan h4 {
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  top: 119px;
+  left: 31px;
+  color: #000000;
+}
+
+.icon__lapor img {
+  width: 51px;
+  height: 48px;
+  margin: 32% auto;
+}
+
+.icon__keluhan img {
+  width: 48.56px;
+  height: 48.11px;
+  margin: 32% auto;
+}
+
+.container__aktivitas {
+  display: flex;
+  align-items: center;
+}
+
+.container__aktivitas h3 {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 18.75px;
+  position: absolute;
+  top: 469px;
+  left: 15px;
+  right: 93px;
+}
+
+.container__aktivitas h5 {
+  font-size: 14px;
+  font-weight: 400;
+  color: #47ade7;
+  line-height: 16.41px;
+  position: absolute;
+  top: 470.5px;
+  left: 282px;
+  right: 15px;
+  cursor: pointer;
+}
+
+.container__keluhan {
+  position: absolute;
+  width: 345px;
+  height: 84px;
+  background: #ffffff;
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.08);
+  border-radius: 5px;
+  top: 503px;
+  left: 15px;
+}
+
+.title__keluhan h3 {
+  font: 16px;
+  font-weight: 500px;
+  line-height: 18.75px;
+  position: absolute;
+  top: 15px;
+  left: 15px;
+}
+
+.nama_product h4 {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16.41px;
+  position: absolute;
+  top: 47px;
+  left: 15px;
+  right: 186.5px;
+}
+
+.product__keluhan {
+  display: flex;
+  align-items: center;
+}
+
+.time__keluhan h4 {
+  font-size: 12px;
+  font-weight: 500;
+  color: #fad24d;
+  padding: 3px, 5px, 3px, 5px;
+  background: rgba(250, 210, 77, 0.15);
+  border-radius: 2px;
+  position: absolute;
+  top: 45px;
+  left: 158.5px;
+  right: 118.5px;
+  text-align: center;
+}
+
+.icon__panah img {
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  top: 41px;
+  left: 302px;
+  right: 15px;
+}
+
+/* Visit */
+.container__visit {
+  position: absolute;
+  width: 345px;
+  height: 84px;
+  background: #ffffff;
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.08);
+  border-radius: 5px;
+  top: 602px;
+  left: 15px;
+  padding: 15px;
+}
+
+.title__visit h3 {
+  font: 16px;
+  font-weight: 500px;
+  line-height: 18.75px;
+}
+
+.nama_teknisi h4 {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16.41px;
+  position: absolute;
+  top: 47px;
+  left: 15px;
+  right: 186.5px;
+}
+
+.waktu__visit {
+  display: flex;
+  align-items: center;
+}
+
+.time__visit h4 {
+  font-size: 14px;
+  font-weight: 300;
+  color: #000000;
+  line-height: 16.41px;
+  position: absolute;
+  top: 47px;
+  left: 158.5px;
+  right: 81.5px;
+  text-align: center;
+}
+
+.icon__panah2 img {
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  top: 41px;
+  left: 302px;
+  right: 15px;
+}
+
+/* Icon Menu */
+
+.container__menu {
+  position: absolute;
+  width: 375px;
+  height: 72px;
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.08);
+  top: 713px;
+  left: 1px;
+  right: 1px;
+  padding: 15px, 30px, 15px, 30px;
+}
+
+.icon__menu {
+  display: flex;
+  align-items: center;
+}
+
+.icon__beranda img {
+  width: 18px;
+  height: 20px;
+  position: absolute;
+  top: 15px;
+  left: 73.5px;
+  right: 283.5px;
+}
+
+.icon__beranda h5 {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16.41px;
+  color: #47ade7;
+  position: absolute;
+  top: 41px;
+  left: 56.5px;
+  right: 266.5px;
+}
+
+.icon__beranda {
+  cursor: pointer;
+}
+.icon__cabang {
+  cursor: pointer;
+}
+.icon__profil {
+  cursor: pointer;
+}
+
+.icon__cabang img {
+  width: 16px;
+  height: 20px;
+  position: absolute;
+  top: 15px;
+  left: 179.5px;
+  right: 179.5px;
+}
+
+.icon__cabang h5 {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16.41px;
+  color: #e0e0e0;
+  position: absolute;
+  top: 41px;
+  left: 163.5px;
+  right: 163.5px;
+}
+
+.icon__profil img {
+  width: 18px;
+  height: 20px;
+  position: absolute;
+  top: 15px;
+  left: 283.5px;
+  right: 73.5px;
+}
+
+.icon__profil h5 {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16.41px;
+  color: #e0e0e0;
+  position: absolute;
+  top: 41px;
+  left: 276px;
+  right: 66px;
+}

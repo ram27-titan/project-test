@@ -1,0 +1,40 @@
+.iconBad img {
+  position: absolute;
+  width: 162px;
+  height: 128px;
+  left: 106px;
+  top: 208px;
+}
+
+.pesanRequest p {
+  position: absolute;
+  width: 235px;
+  height: 28px;
+  left: 70px;
+  top: 360px;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  text-align: center;
+}
+
+.button__kembali {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  gap: 10px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: center;
+  color: #47ade7;
+  position: absolute;
+  width: 119px;
+  height: 46px;
+  left: 128px;
+  top: 412px;
+  background: rgba(71, 173, 231, 0.1);
+  border-radius: 50px;
+}

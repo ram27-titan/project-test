@@ -1,0 +1,22 @@
+.slpashImage img {
+  position: absolute;
+  width: 149px;
+  height: 110.01px;
+  left: 113px;
+  top: 305px;
+  bottom: 304.99px;
+}
+
+.version h3 {
+  position: absolute;
+  width: 295px;
+  height: 16px;
+  left: 40px;
+  top: 656px;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: center;
+
+  color: #766262;
+}
